@@ -1,0 +1,72 @@
+body{
+
+    background: rgb(223, 226, 247);
+background: radial-gradient(circle, rgba(190,194,192,1) 0%, rgba(199,192,199,1) 100%);
+    padding: 50px;
+}
+.main-div{
+    background-color: white;
+    
+}
+
+.box{
+    background: rgb(231,237,245);
+background: radial-gradient(circle, rgba(231,237,245,1) 0%, rgba(231,237,245,1) 100%);
+    text-align: center;
+    
+    border-color: white;
+}
+.box1{
+    background: rgb(231,237,245);
+background: radial-gradient(circle, rgba(231,237,245,1) 0%, rgba(231,237,245,1) 100%);
+    padding: 15px;
+    text-align: center;
+    word-spacing: 5px;
+    border-color: white;
+    
+}
+.box2{
+    background: rgb(231,237,245);
+background: radial-gradient(circle, rgba(231,237,245,1) 0%, rgba(231,237,245,1) 100%);
+    
+}
+p{
+    text-align: center;
+    padding: 0 auto;
+    height: 125px;
+    
+}
+#container{display: flex;
+    gap:3rem;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    height: 180px;
+}
+#container div{
+    flex-grow: 0;
+    margin: 60px;
+    height: 120px;
+    width: 500px;
+    background: rgb(231,237,245);
+background: radial-gradient(circle, rgba(231,237,245,1) 0%, rgba(231,237,245,1) 100%);
+    margin:0 auto;
+    text-align: center;
+    
+
+}
+p{
+    text-align: center;
+
+
+}
+.box4{
+    background: rgb(226,229,232);
+background: radial-gradient(circle, rgba(226,229,232,1) 0%, rgba(226,229,232,1) 100%);
+}
+h5{
+    text-align: center;
+    padding:15px;
+
+}
+
